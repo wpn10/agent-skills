@@ -1,6 +1,6 @@
-# Learning Skill
+# Learning: Interactive Technical Tutor (Zero to Mastery)
 
-An interactive tutoring skill that takes you from zero to mastery on any technical topic.
+An AI tutor that teaches any technical topic through structured modules, Socratic questioning, hands-on challenges, and mastery verification.
 
 ## What It Does
 
